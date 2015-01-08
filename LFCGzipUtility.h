@@ -10,7 +10,6 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "zlib.h"
 
 @interface LFCGzipUtility : NSObject
 {

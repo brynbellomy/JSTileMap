@@ -8,6 +8,7 @@
  */
 
 #import "LFCGzipUtility.h"
+#import "zlib.h"
 
 @implementation LFCGzipUtility
 

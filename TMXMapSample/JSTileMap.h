@@ -8,8 +8,9 @@
 
 #import <SpriteKit/SpriteKit.h>
 #import <Foundation/Foundation.h>
-
 #import "LFCGzipUtility.h"
+
+#define TARGET_OSX 1
 
 
 enum
